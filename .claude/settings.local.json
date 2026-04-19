@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd D:/Development/10minscoffeechat_hk && gh repo create 10minscoffeechat_hk --public --source=. --push 2>&1)"
+    ]
+  }
+}
